@@ -1,6 +1,6 @@
 {
   "name": "Convert Stage V-Slice | GamerCB",
-  "short_name": "Stage Conv",
+  "short_name": "Stage Convert P-Slice/Psych-V Slice",
   "description": "Convertidor de Stages de Psych Engine a V-Slice",
   "start_url": "./index.html",
   "display": "standalone",

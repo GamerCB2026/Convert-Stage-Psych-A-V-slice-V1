@@ -20,6 +20,6 @@ Psych Engine y P-Slice
 
 Links:
 
-Conversor de Charts: https://deibyrt107cali-a11y.github.io/Chart-Convert-V-Slice.github.io/
+Conversor de Charts: https://gamercb2026.github.io/Chart-Convert-V-Slice.github.io/
 
 Youtube: https://youtube.com/@gamercb2026?si=Khvka0Swle6RoGBx
